@@ -11,15 +11,16 @@ This project defines and implements a relational database schema for an Airbnb-l
 ## 📁 Project Structure
 
 
+```bash
 alx-airbnb-database/
-├── normalization.md # Steps taken to achieve 3NF normalization
+├── normalization.md           # Steps taken to achieve 3NF normalization
 ├── database-script-0x01/
-│ ├── schema.sql # SQL schema definition (CREATE TABLE statements)
-│ └── README.md # Schema documentation
+│   ├── schema.sql             # SQL schema definition (CREATE TABLE statements)
+│   └── README.md              # Schema documentation
 ├── database-script-0x02/
-│ ├── seed.sql # SQL script to insert sample data
-│ └── README.md # Data seeding documentation
-
+│   ├── seed.sql               # SQL script to insert sample data
+│   └── README.md              # Data seeding documentation
+```
 
 
 ---
